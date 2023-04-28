@@ -1,0 +1,13 @@
+
+@import '@fontsource/roboto/index.css';
+
+// per importare bootstrap dopo aver fatto npm i bootstrap
+//@import 'bootstrap/scss/bootstrap';
+
+// importazione font via http
+//@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+@import './general/general';
+@import './general/typography';
+@import './general/utils';
